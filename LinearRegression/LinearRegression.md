@@ -10,9 +10,7 @@
 
 ![8](./images/8.png)
 
-
-
-##Linear Regression?
+## Linear Regression?
 
 직선, 즉 일차함수의 개념인 y = ax + b 직선을 임의로 그려놓고, 그직선을 바탕으로 예측하는 것.
 
@@ -36,19 +34,19 @@
 
 그럼 이제 우리가 원하는 가장 예측값의 오차가 적은 모델을 만드려면 어떻게 해야할까?
 
-**Cost Function ** (실제 값과 가설값의 차이) 을 최저로 만드는것
+**Cost Function** (실제 값과 가설값의 차이) 을 최저로 만드는것
 
 선형회귀모델에서 Cost Function -> Mean Square error = 1/n*∑(h(x)-y)²
 
 Cost Function을 구하기 위해 사용되는 개념은 **LMS**(최소제곱법)와 **Backpropagation**을 사용한다.
 
-![image-20191215230655128](/Users/hanbin/Library/Application Support/typora-user-images/image-20191215230655128.png)
+![4](./images/4.png)
 
-![image-20191215230913581](/Users/hanbin/Library/Application Support/typora-user-images/image-20191215230913581.png)
+![5](./images/5.png)
 
-![image-20191215230953073](/Users/hanbin/Library/Application Support/typora-user-images/image-20191215230953073.png)
+![6](./images/6.png)
 
-![image-20191215231119416](/Users/hanbin/Library/Application Support/typora-user-images/image-20191215231119416.png)
+![7](./images/7.png)
 
 참교 자료 
 
