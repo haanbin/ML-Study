@@ -8,9 +8,9 @@
 
 예측변수가 많을때 영향력이 적은 변수들이 추가되고 이는 모델의 복잡도를 증가시킨다. 그래서 우리는 관련성이 높은 변수만 포함하는 방법을 선택해야한다.
 
-#### Subset selection
 
 
+### Subset selection
 
 ![9](./images/9.png)
 
@@ -34,7 +34,7 @@ RSS
 
 
 
-#### Stepwise selection
+### Stepwise selection
 
 forword stepwise 와 backward stepwise 방식이 존재한다
 
@@ -50,7 +50,7 @@ forword stepwise 와 backward stepwise 방식이 존재한다
 
 
 
-#### Shrinkage methods(축소)
+### Shrinkage methods(축소)
 
 ridge and lasso regression 
 
